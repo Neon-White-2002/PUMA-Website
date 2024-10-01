@@ -1,7 +1,6 @@
 # PUMA-Website
 "Front-End-Development (PUMA-Website), that consist of : HTML, CSS, JAVASCRIPT" !
 
-![Screenshot (289)](https://github.com/user-attachments/assets/8c4c4620-5978-4a27-8beb-a9836695c0a0)
 ![Screenshot (290)](https://github.com/user-attachments/assets/883707e3-258d-406c-a95a-c04e9cb28955)
 ![Screenshot (291)](https://github.com/user-attachments/assets/676a5abf-e081-4d12-ad31-11f2935d57b3)
 ![Screenshot (292)](https://github.com/user-attachments/assets/3ec6c2b6-0bb8-471c-b66d-7117e688f27c)
@@ -21,4 +20,4 @@
 ![Screenshot (306)](https://github.com/user-attachments/assets/107ca9a0-bf21-4614-a60f-95254abff152)
 ![Screenshot (307)](https://github.com/user-attachments/assets/6388e933-d300-44e7-9ea1-6ddecc0afd98)
 ![Screenshot (308)](https://github.com/user-attachments/assets/97c86fa0-d70b-42eb-b8ef-ea2dc834418c)
-
+![Screenshot (309)](https://github.com/user-attachments/assets/8b1bd544-d3d8-4379-b560-1f4fa8e53365)
